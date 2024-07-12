@@ -1,0 +1,6 @@
+
+    User-agent: * 
+    Disallow : /wp-admin
+    Crawl-Delay: 20
+    Sitemap : https://eligocs.com/sitemap.xml
+    
